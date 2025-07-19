@@ -1,7 +1,7 @@
 # EHoleOnlyFinger
 EHole 魔改仅支持指纹识别功能去掉一切杂质,把没用的目录扫描 ftp 爆破 exp 识别 直接全部去掉。 By peiqiF4ck  <br/>
 https://forum.ywhack.com  By:shihuang <br/>
-Modify By peiqiF4ck 仅支持 指纹识别 博客:https://forum.ywhack.com  By:shihuang EHole指纹文件 用法如下:<br/>
+Modify By peiqiF4ck 仅支持 指纹识别 博客:https://peiqiF4ck.github.io  By:shihuang EHole指纹文件 用法如下:<br/>
 指纹文件固定名称 finger.json<br/>
   -url     可以是本地文件或单个目标 URL。例如：text.txt 或 https://www.baidu.com <br/>
   -output  输出所有结果，当前仅支持json和xlsx后缀的文件。必须要加保存的文件名称(2.xlsx)结果不是实时保存<br/>
